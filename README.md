@@ -6,7 +6,7 @@ Welcome to NextApp Pricing UI With Tailwind CSS!.
 
 Check on Vercel.
 
-https://pricing-ui-tailwind-ten.vercel.app/
+https://pricing-1nno0vmtt-m-abdullah-sheikh.vercel.app
 
 # Folder Directory 
 
